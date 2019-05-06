@@ -1,0 +1,91 @@
+ 
+    #workshopsearchet {
+        width: 260px !important;
+        margin-left: auto !important;
+        margin-bottom: 2%;
+        border-bottom: 1px solid #8e8a8a;
+        display: flex;
+        }
+
+        #workshopserachrow{
+            width:100% !important;
+            margin-top:40px;
+            }
+            #EditButtonuc{
+                background-color:green !important;
+                transition: transform .2s;
+                width: 20%;
+                color: white;
+                margin-left:3%;
+                }
+                #DeleteButtonuc{
+                background-color: #dc0c08c7;
+                transition: transform .2s;
+                width: 20%;
+                color:white;
+                }
+               
+                
+    #Tabledataw {
+        text-align: left;
+        }
+        #importIcon {
+            cursor: pointer;
+            color: #308e51;
+            transition: transform .2s;
+          }
+          #workshoplabel{
+            font-weight: 600;
+            margin-top: 2%;
+            }
+
+        table {
+            width: 100%;
+            }
+            
+            .mat-form-field {
+            font-size: 14px;
+            width: 100%;
+            }
+            
+            .mat-form-field {
+            font-size: 14px;
+            width: 100%;
+            }
+            td,th {
+            width: 5%;
+            }
+            #TableHeadingw {
+                
+                text-align: left;
+                font-weight : 800;
+                font-size: 13px;
+                font-family: serif;
+                font-style: bold;
+                background-color: #c7c7c7;
+                color: black;
+                }
+
+                table {
+                    width: 100%;
+                  }
+                  
+                  th.mat-header-cell, td.mat-cell {
+                      text-align: center;
+                      border: 1px solid #CCC;
+                      padding: 0 !important;
+                  }
+
+
+
+
+
+                  /* th.mat-header-cell[_ngcontent-yuv-c3], td.mat-cell[_ngcontent-yuv-c3] {
+                    text-align: center;
+                    padding: 5px 15px !important;
+                } */
+
+/* 
+                highlight : background-color: #a7a2a2;
+                normal :     background-color: #cecece; */
+/* login form */
